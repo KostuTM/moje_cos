@@ -1,0 +1,5 @@
+*.pyc
+_-pycache__
+wirtualnesrodowisko
+db.sqlite3
+.DS_Store
